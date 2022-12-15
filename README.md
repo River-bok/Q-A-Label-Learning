@@ -1,4 +1,3 @@
 # Q-A-Label-Learning
-## WHat
-## Why
+## What
 ## Ref
